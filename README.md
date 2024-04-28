@@ -17,7 +17,7 @@ This Python script allows you to real-time face detection through a webcam or vi
 
 ## Installation
 
-You can install the librarie using:
+This script request OpenCV library, You can install the librarie using:
 
 ```bash
 pip install opencv-python
