@@ -28,7 +28,7 @@ pip install opencv-python
 2. Connect your webcam to your computer
 3. Run the script using your IDE or the following command:
 ```bash
-python face_detection.py
+python main.py
 ```
 
 You can also use a video file instead of using the webcam by modifying the `cap = cv2.VideoCapture(0) line in the script.` and replace it with your video path
