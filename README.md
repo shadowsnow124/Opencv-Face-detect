@@ -1,4 +1,4 @@
-# Face Detection using AI
+# openCV face detect
 
 This Python script allows you to real-time face detection through a webcam or video. It use the OpenCV library and a pre-trained Haarcascades face detector.
 
