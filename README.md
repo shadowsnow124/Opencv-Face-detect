@@ -31,12 +31,9 @@ pip install opencv-python
 python main.py
 ```
 
-You can also use a video file instead of using the webcam by modifying the `cap = cv2.VideoCapture(0) line in the script.` and replace it with your video path
+You can also use a video file instead of using the webcam by modifying the `cap = cv2.VideoCapture(0)` line in the script, And replace it with your video path
 
 ## Control
 - press `q` while the OpenCV window is in focus.
-
-## Acknowledgments
-This script is using the OpenCV library and pre-trained Haarcascades for face detector.
 
 Feel free to use this project for anything =)
