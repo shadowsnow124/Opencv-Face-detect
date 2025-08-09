@@ -1,6 +1,6 @@
 # openCV face detect
 
-This Python script allows you to real-time face detection through a webcam or video. It use the OpenCV library and a pre-trained Haarcascades face detector.
+This Project allows you to real-time face detection through a webcam or video. It use the OpenCV library and a pre-trained Haarcascades face detector.
 
 ## Requirement
 
@@ -10,7 +10,7 @@ This Python script allows you to real-time face detection through a webcam or vi
 - Python 2.x (Not recommand)
 - OpenCV library (`cv2`)
 
-### Recommand ( 60 fps )
+### Recommand ( 30 fps )
 
 - 2Ghz+ CPU
 - Python 3.x
@@ -35,5 +35,3 @@ You can also use a video file instead of using the webcam by modifying the `cap 
 
 ## Control
 - press `q` while the OpenCV window is in focus.
-
-Feel free to use this project for anything =)
